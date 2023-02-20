@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/lovelqq/.config/fcitx5/conf'
+let g:netrw_dirhist_6='/home/lovelqq/develop/s3client'
+let g:netrw_dirhist_5='/home/lovelqq/.PlayOnLinux/wineprefix'
+let g:netrw_dirhist_4='/home/lovelqq/develop/code/go/src'
+let g:netrw_dirhist_3='/home/lovelqq/.tmux'
+let g:netrw_dirhist_2='/home/lovelqq/code/yig'
+let g:netrw_dirhist_1='/home/lovelqq/code/yig/taskflow'
+let g:netrw_dirhist_0='/home/lovelqq/code/yig/taskflow/processor'
+let g:netrw_dirhist_9='/home/lovelqq/.tmux'
+let g:netrw_dirhist_8='/home/lovelqq/视频'
